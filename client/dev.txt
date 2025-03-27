@@ -1,0 +1,8 @@
+git init 
+git add .
+git commit -m ""
+git branch -M main 
+git  romte add origin repo link
+git push -u origin main 
+
+git checkout branchname
